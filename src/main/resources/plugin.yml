@@ -1,0 +1,13 @@
+name: PortCmd
+main: my.smk.plugin.PortCmd.Main
+version: 0.0.2
+author: smk7758
+website(my): http://smk7758.web.fc2.com/
+website(plugin): none
+permissions:
+   PortCmd:
+       description: You can know the Server port.
+       default: false
+commands:
+   port:
+    description: You can know the Server port.
